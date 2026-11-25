@@ -1,6 +1,6 @@
 cask "transclase" do
-  version "1.8.0"
-  sha256 "5de0944ac903a2fbe9a9ea951e6e846b83514dea46b311c9a72232deeb8672b2"
+  version "1.9.0"
+  sha256 "31eca4b8abb480cbd1abd831c0ce4b11b503e96c2341761d052abe04a026f941"
 
   url "https://github.com/JLZ0614/transclase/releases/download/v#{version}/Transclase-#{version}-app.zip"
   name "Transclase"
